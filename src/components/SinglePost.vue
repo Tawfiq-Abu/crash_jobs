@@ -1,6 +1,6 @@
 <template>
   <div class="post">
-      {{post.title}}
+      <p>{{post.title}}</p>
       {{snippet}}
   </div>
 </template>
